@@ -25,6 +25,7 @@ Channel owners can manage everything directly from the message interface:
   
 ```text
   ,voicemaster
+```
 
 
 <img width="518" height="429" alt="Preview" src="https://github.com/user-attachments/assets/e6e679fa-e3c7-488c-a424-f08abb53d84d" />
