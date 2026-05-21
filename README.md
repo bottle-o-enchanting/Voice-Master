@@ -10,8 +10,9 @@ The bot handles the entire cycle: it detects when someone joins the setup channe
 Channel owners can manage everything directly from the message interface:
 * Lock / Unlock rooms
 * Hide / Unhide channels
-* Rename rooms on the fly
+* Rename rooms
 * Change user limits
+* Alot more
 
 ## Setup & Configuration
 
