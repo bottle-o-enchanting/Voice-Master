@@ -17,7 +17,7 @@ Channel owners can manage everything directly from the message interface:
 ## Setup & Configuration
 
 1. **Add your token:** Open up the code and drop your Discord bot token into the placeholder on **line 10**.
-2. **Customize (Optional):** You can change the default emojis in the configuration section to match your server's theme.
+2. **Customize (Optional):** You can change the default emojis to match your server's theme.
 
 ## Commands
 
