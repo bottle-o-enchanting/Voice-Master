@@ -2,7 +2,7 @@
 
 A free Discord bot that gives you premium temporary voice channel features with an interactive button panel. 
 
-I built this repository for anyone wanting an automated voice system for their server, or for developers trying to figure out how to code this themselves. A lot of people struggle with keeping button interactions working and saving channel data when the bot restarts—this project fixes those exact issues.
+I built this repository for anyone wanting an automated voice system for their server, or for developers trying to figure out how to code this themselves. A lot of people struggle with keeping button interactions working and saving channel data when the bot restarts. This project fixes those exact issues.
 
 ## How it works
 The bot handles the entire cycle: it detects when someone joins the setup channel, creates a new room, moves them into it, and cleans up by deleting the channel the second the last person leaves. 
