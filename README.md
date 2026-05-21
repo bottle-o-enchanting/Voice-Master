@@ -1,9 +1,31 @@
 # Voice Master
-A Discord Bot that provides those "paid" Voice Master features with an interface for completely free
 
-This repository is specfically for those wanting to use this service for their own Discord Server or for those who have been struggling to implement a function similar to this, I've seen people struggling to keep buttons on the interface persistent, while also maintiing consistent data for each temporary channel & the "Join 2 Create" channel, especially on bot restart. The bot handles everything: making the room, moving the user, and taking commands from the interface where they can lock, hide, rename and much more all by themselves. When the last person leaves, the channel disappears instantly.
+A free Discord bot that gives you premium temporary voice channel features with an interactive button panel. 
 
-The default prefix is ",". Feel free to change it to your liking. Run the command ",voicemaster" to get started. Make sure you add your bot token on line 10. You can add your own custom emojis to fit your server scheme.
+I built this repository for anyone wanting an automated voice system for their server, or for developers trying to figure out how to code this themselves. A lot of people struggle with keeping button interactions working and saving channel data when the bot restarts—this project fixes those exact issues.
+
+## How it works
+The bot handles the entire cycle: it detects when someone joins the setup channel, creates a new room, moves them into it, and cleans up by deleting the channel the second the last person leaves. 
+
+Channel owners can manage everything directly from the message interface:
+* Lock / Unlock rooms
+* Hide / Unhide channels
+* Rename rooms on the fly
+* Change user limits
+
+## Setup & Configuration
+
+1. **Add your token:** Open up the code and drop your Discord bot token into the placeholder on **line 10**.
+2. **Customize (Optional):** You can change the default emojis in the configuration section to match your server's theme.
+
+## Commands
+
+* The default prefix is `,` (you can change this to whatever you want in the code).
+* To get started, just run:
+  
+```text
+  ,voicemaster
+
 
 <img width="518" height="429" alt="Preview" src="https://github.com/user-attachments/assets/e6e679fa-e3c7-488c-a424-f08abb53d84d" />
 
