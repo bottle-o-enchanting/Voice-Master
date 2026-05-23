@@ -28,6 +28,7 @@ Channel owners can manage everything directly from the message interface:
   ,voicemaster
 ```
 <img width="518" height="429" alt="592029384-e6e679fa-e3c7-488c-a424-f08abb53d84d (1)" src="https://github.com/user-attachments/assets/518d86d3-39ef-44db-9c87-e23a43090315" />
+
 NOTE: USE DISCORD.PY 3.9.6 FOR THE BEST EXPERIENCE
 
 ## 📜 License
