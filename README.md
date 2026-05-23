@@ -1,3 +1,4 @@
+<img width="518" height="429" alt="592029384-e6e679fa-e3c7-488c-a424-f08abb53d84d (1)" src="https://github.com/user-attachments/assets/5d6d2d68-8a0b-4ad3-beb0-0b445fd49db4" />
 # Voice Master
 
 A free Discord bot that gives you premium temporary voice channel features with an interactive button panel. 
@@ -27,10 +28,7 @@ Channel owners can manage everything directly from the message interface:
 ```text
   ,voicemaster
 ```
-
-
-<img width="518" height="429" alt="Preview" src="https://github.com/user-attachments/assets/e6e679fa-e3c7-488c-a424-f08abb53d84d" />
-
+<img width="518" height="429" alt="592029384-e6e679fa-e3c7-488c-a424-f08abb53d84d (1)" src="https://github.com/user-attachments/assets/518d86d3-39ef-44db-9c87-e23a43090315" />
 NOTE: USE DISCORD.PY 3.9.6 FOR THE BEST EXPERIENCE
 
 ## 📜 License
