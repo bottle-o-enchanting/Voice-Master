@@ -7,7 +7,7 @@ import os
 import asyncio
 from discord.ui import View, Button, Modal, TextInput
 
-TOKEN = "" # Add your bot token here
+TOKEN = "" # THE BOT TOKEN GOES IN HERE 
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix=",", intents=intents)
